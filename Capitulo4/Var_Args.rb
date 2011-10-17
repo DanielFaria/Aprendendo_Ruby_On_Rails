@@ -16,4 +16,4 @@ end
 
 puts compra("Abobora", "Maça", "Feijão", "Arroz","Beterraba","Couve","Ferrari", "Fusca","TV","Computador","NoteBook","Fejão de Novo","Arroz","Biscoito" )
 puts compra("Teste")
-puts "Muito prazer Split"
+puts "Muito prazer Splat"
