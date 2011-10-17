@@ -1,0 +1,20 @@
+def procura_sede_copao_mundo_do_mundo_de(ano)
+	case ano 
+	when 1895..1993
+		"Não Lembro"
+	when 1994
+		"Estados Unidos"
+	when 1998
+		"França"
+	when 2002
+		"Japão/Corea"
+	when 2006
+		"Alemanha"
+	when 2010
+		"Áfrico do Sul"
+	end
+end
+
+puts procura_sede_sede_		
+	
+	
