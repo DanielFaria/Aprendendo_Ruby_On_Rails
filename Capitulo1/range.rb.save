@@ -1,8 +1,0 @@
-# -*- coding: utf-8 -*-
-puts "agora vamos tentar o range  (0..10)"
-puts (0..10).each { |x| puts x } 
-puts "Vamos imprimir o alfabeto"
-puts ('a'..'z').each { |x| puts x    }
-puts "Agora vamos tentar imprimir o alfabeto na horizontal"
-alfabeto=""
-('a'..'z').each{ uts  x }
